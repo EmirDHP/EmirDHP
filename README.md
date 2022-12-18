@@ -10,10 +10,10 @@
   <!-- https://github.com/anuraghazra/github-readme-stats -->
 <p align="center" >  
   <a href="https://github.com/EmirDHP/github-readme-stats"> 
-    <img src="https://github-readme-stats.vercel.app/api?username=EmirDHP&&show_icons=true&theme=radical&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="150"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=EmirDHP&&show_icons=true&theme=radical&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="170"/>
   </a>
   <a href="https://github.com/EmirDHP/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmirDHP&langs_count=8&layout=compact&theme=radical&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="150"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmirDHP&langs_count=8&layout=compact&theme=radical&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="170"/>
   </a>
 </p>
 
