@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there I'm Emir Hernández👋
+🌱 I’m currently learning Angular & C# Web API`S 
 
 <!--
 **EmirDHP/EmirDHP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
